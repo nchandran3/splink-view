@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "es2015",
+    "moduleResolution": "node",
+    "lib": [
+	    "dom",
+	    "es5",
+	    "es2015.promise"
+    ],                
+
+    "sourceMap": true,
+    "allowSyntheticDefaultImports": true,
+
+    "alwaysStrict": true,
+    "strict": true,
+
+    "noImplicitAny": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true
+  }
+}

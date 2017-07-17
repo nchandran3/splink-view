@@ -2,14 +2,14 @@
   "generator-fountain-vue": {
     "version": "1.0.0",
     "props": {
-      "resolved": "C:\\Users\\navee\\AppData\\Roaming\\npm\\node_modules\\generator-fountain-vue\\generators\\app\\index.js",
+      "framework": "vue",
+      "modules": "webpack",
+      "js": "babel",
+      "ci": "travis",
+      "css": "scss",
+      "resolved": "C:\\Users\\navee\\AppData\\Local\\Yarn\\config\\global\\node_modules\\generator-fountain-vue\\generators\\app\\index.js",
       "namespace": "fountain-vue:app",
       "_": [],
-      "framework": "vue",
-      "js": "babel",
-      "modules": "webpack",
-      "css": "scss",
-      "ci": [],
       "sample": "techs",
       "router": "router"
     }
